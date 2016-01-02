@@ -1,0 +1,6 @@
+framework module Pods_URL_Routing {
+  umbrella header "Pods-URL Routing-umbrella.h"
+
+  export *
+  module * { export * }
+}

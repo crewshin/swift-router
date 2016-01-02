@@ -1,0 +1,3 @@
+[submodule "PerfectLibraries"]
+	path = PerfectLibraries
+	url = https://github.com/PerfectlySoft/Perfect.git
